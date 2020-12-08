@@ -33,7 +33,7 @@ yarn dev
 ```
 se você utiliza npm execute: `npm run dev`
 
-Irá subir um servidor em http://localhost:4000/ com o playground do GraphQL.
+Irá subir um servidor em http://localhost:`port`/ com o playground do GraphQL.
 
 Você pode utilizar a query abaixo para a consulta:
 
